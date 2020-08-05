@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sejam bem-vindos ao meu repositório 👋
 
 <!--
 **lsabreu/lsabreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Estou atualment organizando alguns scripts neste repositório
+- 🌱 Aprendendo sobre Node.Js, MongoDB, PHP, MariaDb, SQLServer
+- :alien:🛸 Contatos imediatos: procure por @leonardosabreu nas redes sociais (Twitter, Facebook, LinkedIn)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/leonardosabreu?label=Siga-me%20os%20bons%21&style=social)
